@@ -1137,10 +1137,10 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/eslint-plugin/-/eslint-plugin-1.1.0.tgz#e42b1bef12d2415411519fd528e64b593b1363dc"
   integrity sha512-W/J0fNYVO01tioHjvYWQ9m6RgndVtbElzYozBq1ZPrHO/iCzlqoySHl4gO/fpCl9QEFjvJfjPgtPMTMlsoq5DQ==
 
-"@react-native-windows/cli@0.63.5":
-  version "0.63.5"
-  resolved "https://registry.yarnpkg.com/@react-native-windows/cli/-/cli-0.63.5.tgz#d404e6bd0d5217064a0bb862b338d60230d197de"
-  integrity sha512-mc1yrIyoEqibdBrnt9rZ8v7rzi7AVQiH5E4DhQ9OTW7MBNz96zdeIkJX6K9Ny486hjD5HzhkEdzO+D63xQqtmQ==
+"@react-native-windows/cli@0.63.10":
+  version "0.63.10"
+  resolved "https://registry.yarnpkg.com/@react-native-windows/cli/-/cli-0.63.10.tgz#d26f54003ebf6fa4909db57d07a765057b35f7b8"
+  integrity sha512-nCVCN6DKciOtmou71Sj3b30CvQfnD+t9TbSYa8uuGTguB57A3F2gOBl+6fS+r9cAQ5V5mMAX2LWg1YovT8sPcw==
   dependencies:
     "@react-native-windows/telemetry" "^0.63.4"
     chalk "^3.0.0"
@@ -5614,13 +5614,13 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-windows@^0.63.10:
-  version "0.63.10"
-  resolved "https://registry.yarnpkg.com/react-native-windows/-/react-native-windows-0.63.10.tgz#e847a9ed31bca08b630ea59221c84dd1866fce67"
-  integrity sha512-fvWM3tw69TgUNlffbWSRZNbt4W/JNOweag7MNXTrQaP9vU5u1eq7KCJg79WdqY5Wnt6/o+cIpYkjUUSjmLXK6Q==
+react-native-windows@^0.63.20:
+  version "0.63.23"
+  resolved "https://registry.yarnpkg.com/react-native-windows/-/react-native-windows-0.63.23.tgz#aebccf67e7332f1600ac2ac086dfcb133ff45f2b"
+  integrity sha512-dFdC/fVosaymF2pkDxv9TZXtbs98WHuXN8GH5X0xGUTpMrrOUonfxKBFNYdgUpjGHCwN/eiZzrYOoU4f3GPYAQ==
   dependencies:
     "@babel/runtime" "^7.8.4"
-    "@react-native-windows/cli" "0.63.5"
+    "@react-native-windows/cli" "0.63.10"
     abort-controller "^3.0.0"
     anser "^1.4.9"
     base64-js "^1.1.2"
