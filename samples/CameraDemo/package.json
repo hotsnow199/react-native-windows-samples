@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "react": "16.13.1",
-    "react-native": "0.63.2",
+    "react-native": "0.64.0",
     "react-native-camera": "^3.39.0",
-    "react-native-windows": "0.63.10"
+    "react-native-windows": "0.65.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
